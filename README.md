@@ -7,3 +7,6 @@ Steps to be followed:
 1) Replace the cdn of pdf2html in your script tag.
 2) Copy the file in this repository to resource folder.
 3) Add the resource folder and pdf2html-tweaked path to your script tag where using the file.
+
+
+Solution to issue https://github.com/eKoopmans/html2pdf.js/issues/372
